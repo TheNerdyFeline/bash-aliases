@@ -1,3 +1,5 @@
 alias e="emacsclient -ca ''"
 alias ins="sudo apt install"
 alias ser="python -m SimpleHTTPServer"
+alias po="polymer"
+alias fb="firebase"
