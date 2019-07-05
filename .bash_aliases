@@ -13,3 +13,4 @@ alias gc="git commit -m"
 alias gp="git push"
 alias om="origin master"
 alias v="gvim"
+alias kdb='keepassx &'
